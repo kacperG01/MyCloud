@@ -1,0 +1,56 @@
+/* Style dla plików */
+.file-box {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.file-icon {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+
+.file-info {
+    margin-top: 5px;
+}
+
+.file-name {
+    margin-top: 5px;
+}
+
+.download-link {
+    display: block;
+    margin-top: 5px;
+}
+
+/* Style dla folderów */
+.folder-box {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.folder-icon {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.folder-info {
+    margin-top: 5px;
+}
+
+.folder-name {
+    margin-top: 5px;
+    display: block;
+    color: black;
+}
